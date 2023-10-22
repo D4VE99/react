@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.155adc6a.css",
+    "main.js": "/static/js/main.6139a187.js",
+    "static/js/787.5be5eedf.chunk.js": "/static/js/787.5be5eedf.chunk.js",
+    "static/media/prem.jpg": "/static/media/prem.dc5abcd9c8de170980ef.jpg",
+    "static/media/ghirardelli.jpeg": "/static/media/ghirardelli.1dcfa094a6ce6132f9dd.jpeg",
+    "static/media/Lorenzo.jpg": "/static/media/Lorenzo.0fddcb69ceb45f9b09df.jpg",
+    "static/media/sanit.jpg": "/static/media/sanit.c8f89c00bc035c9995c4.jpg",
+    "static/media/fara.jpg": "/static/media/fara.baac8901e6ca2e5d52e0.jpg",
+    "static/media/portaorenzo.jpg": "/static/media/portaorenzo.d60b90ca1c7015d102ab.jpg",
+    "static/media/lazz.jpg": "/static/media/lazz.608ae8c21ed36596a802.jpg",
+    "static/media/Piatti.jpg": "/static/media/Piatti.f19f482961b34e97895f.jpg",
+    "static/media/rocca.jpg": "/static/media/rocca.580cda63eaf6878ee2d9.jpg",
+    "static/media/zeno.jpg": "/static/media/zeno.ea50cba4f26845bb5a6f.jpg",
+    "static/media/Benglio.jpg": "/static/media/Benglio.ae686f5fc1edd7bf37db.jpg",
+    "static/media/morosini.jpg": "/static/media/morosini.302c892cf2b846c6942a.jpg",
+    "static/media/img1.jpg": "/static/media/img1.94cee091ef714f30df86.jpg",
+    "index.html": "/index.html",
+    "main.155adc6a.css.map": "/static/css/main.155adc6a.css.map",
+    "main.6139a187.js.map": "/static/js/main.6139a187.js.map",
+    "787.5be5eedf.chunk.js.map": "/static/js/787.5be5eedf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.155adc6a.css",
+    "static/js/main.6139a187.js"
+  ]
+}
